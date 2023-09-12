@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ambar Ahuja
+# 👋 Hey There! I'm Ambar Ahuja
 #### B.Tech Student | Computer Science Major | Blockchain Enthusiast
 
 💼 [LinkedIn] https://www.linkedin.com/in/ambar-ahuja-927196226/
