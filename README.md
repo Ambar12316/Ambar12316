@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Ambar Ahuja
 #### B.Tech Student | Computer Science Major | Blockchain Enthusiast
 
-💼 [LinkedIn]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/ambar-ahuja-927196226/)
+💼 [LinkedIn](https://www.linkedin.com/in/ambar-ahuja-927196226/)
 
 I'm a passionate Computer Science student currently pursuing my B.Tech degree with a major in Blockchain. I'm enthusiastic about decentralized technologies, smart contracts, psuedonomity and their effects on industrial revolution.
 
