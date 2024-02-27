@@ -9,8 +9,8 @@ I'm a passionate Computer Science student currently pursuing my B.Tech degree wi
 
 - **Blockchain**: Solidity, Ethereum, Smart Contracts
 - **Programming Languages**: Java,C
-- **Web Development**: 
-- **Database**: SQL
+- **Web Development**: HTML,CSS
+- **Database**: MySQL
 - **Version Control**: Git, GitHub
 
 ## 🌱 Currently Learning
@@ -19,6 +19,7 @@ I'm a passionate Computer Science student currently pursuing my B.Tech degree wi
 - Cybersecurity in Blockchain
 - DApp development with Ethereum
 - Android Development
+- Javascript Frameworks
 
 ## 🚀 Projects
 
