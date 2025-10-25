@@ -14,9 +14,10 @@ I'm a passionate Computer Science student that loves to build applications.
 - **Frameworks**: ReactJs,SpringBoot
 
 ## 🌱 Currently Learning
+-Cloud Technologies and Infrastructure 
+-Terraform
 
-- Javascript Frameworks
-- Python Frameworks
+
   
 
 Feel free to reach out if you'd like to collaborate on open source projects. Let's connect!
