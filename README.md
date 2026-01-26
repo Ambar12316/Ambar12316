@@ -1,5 +1,5 @@
 # 👋 Hey There! I'm Ambar Ahuja
-#### B.Tech Student | Computer Science Major | Tech Enthusiast
+#### Computer Science Major | Tech Enthusiast
 
 💼 [LinkedIn] https://www.linkedin.com/in/ambar-ahuja-927196226/
 
@@ -7,11 +7,11 @@ I'm a passionate Computer Science student that loves to build applications.
 
 ## 🔧 Skills
 
-- **Programming Languages**: Java,Javascript,Python
-- **Web Development**: HTML,CSS,JS,ReactJs,NodeJs
+- **Programming Languages**: Java, Javascript, Python
+- **Web Development**: HTML, CSS, JS, ReactJs, NodeJs
 - **Database**: MySQL,PostgreSQL,MongoDB
-- **Devops**: Git, GitHub,Docker Kubernetes
-- **Frameworks**: ReactJs,SpringBoot
+- **Devops**: Git, GitHub, Docker, Kubernetes
+- **Frameworks**: ReactJs, SpringBoot, NodeJs 
 
 ## 🌱 Currently Learning
 -Cloud Technologies and Infrastructure 
