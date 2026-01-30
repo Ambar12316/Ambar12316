@@ -8,10 +8,9 @@ I'm a passionate Computer Science student that loves to build applications.
 ## 🔧 Skills
 
 - **Programming Languages**: Java, Javascript, Python
-- **Web Development**: HTML, CSS, JS, ReactJs, NodeJs
+- **Web Development**: HTML, CSS, JS, ReactJs, Spring Boot
 - **Database**: MySQL,PostgreSQL,MongoDB
 - **Devops**: Git, GitHub, Docker, Kubernetes
-- **Frameworks**: ReactJs, SpringBoot, NodeJs 
 
 ## 🌱 Currently Learning
 -Cloud Technologies and Infrastructure 
